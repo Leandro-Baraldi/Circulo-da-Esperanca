@@ -27,6 +27,4 @@ CSS3 (Flexbox e Grid) → Layout responsivo
 
 JavaScript → Validação e interação
 
-Git & GitHub → Versionamento e publicação
-
 -------------------------------------------------------------
