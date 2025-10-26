@@ -30,15 +30,3 @@ JavaScript → Validação e interação
 Git & GitHub → Versionamento e publicação
 
 -------------------------------------------------------------
-
-Créditos
-
-Desenvolvido por Leandro da Silva Baraldi
-Projeto acadêmico — Disciplina de Desenvolvimento Front-End
-
--------------------------------------------------------------
-
-Licença
-
-Este projeto é de uso educacional e sem fins lucrativos.
-Sinta-se à vontade para estudar, modificar e aprimorar.
